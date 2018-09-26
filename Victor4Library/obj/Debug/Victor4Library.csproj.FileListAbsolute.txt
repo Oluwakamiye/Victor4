@@ -1,0 +1,5 @@
+C:\Users\A233603\Source\Repos\Victor4\Victor4Library\obj\Debug\Victor4Library.csproj.CoreCompileInputs.cache
+C:\Users\A233603\Source\Repos\Victor4\Victor4Library\bin\Debug\Victor4Library.dll
+C:\Users\A233603\Source\Repos\Victor4\Victor4Library\bin\Debug\Victor4Library.pdb
+C:\Users\A233603\Source\Repos\Victor4\Victor4Library\obj\Debug\Victor4Library.dll
+C:\Users\A233603\Source\Repos\Victor4\Victor4Library\obj\Debug\Victor4Library.pdb
