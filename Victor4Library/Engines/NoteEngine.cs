@@ -25,6 +25,7 @@ namespace Victor4Library.Engines
             note.NoteHeader = title;
             note.NoteBody = body;
         }
+        //Lets add a comment here to see the wonders of git
         public void deleteNote(string noteId)
         {
             Note note = GetNoteFromId(noteId);
