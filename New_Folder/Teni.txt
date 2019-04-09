@@ -1,14 +1,21 @@
-The only easy day was yesterday \n
+The only easy day was yesterday
 Congratulations - Ne-Yo
-<<<<<<< HEAD
+
 Please Me - Cardi B ft. Bruno Mars
 Jason Derulo - Trumpets
 I took a pill in Ibiza - Mike Posner (SEEB REMIX)
-=======
+======
 Felipe Lobos
 Mario sings Skippin in the airport
->>>>>>> testin
 
+From Testin,
+Too much - Zayn ft. Timbaland
+Dusk till dawn - Zayn ft. Sia
+I don't Wanna Live Forever - Zayn ft. Taylor Swift
+
+From Justin Timberlake
+Cabaret - Justin Timberlake ft. Drake
+Murder - Justin Timberlake ft. Jay-Z
 
 //Added from the master branch
 Hey Mama - Kanye West
