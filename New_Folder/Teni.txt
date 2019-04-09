@@ -1,4 +1,10 @@
 The only easy day was yesterday \n
 Congratulations - Ne-Yo
+<<<<<<< HEAD
 Please Me - Cardi B ft. Bruno Mars
+Jason Derulo - Trumpets
 I took a pill in Ibiza - Mike Posner (SEEB REMIX)
+=======
+Felipe Lobos
+Mario sings Skippin in the airport
+>>>>>>> testin
